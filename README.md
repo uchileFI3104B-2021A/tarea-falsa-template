@@ -8,3 +8,7 @@
 - Revisar en github.com si el cambio fue subido
 
 Si Uds. pueden ver el cambio realizado, entonces los profesores del curso también podrán verlo.
+
+¿Necesitas ayuda?
+
+![Gato ayudante](gato_ayudante.jpg)
